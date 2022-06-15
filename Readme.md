@@ -30,7 +30,9 @@ with the following packages only:
 2- mongoose   
 3- nodemon    
 
-you are required to add a crud operation to that structure an example values for you to test is this:
+you are required to make a backend that is capable of doing all the crud operations (including getting a single course) to that structure
+
+an example value for you to test is this:
 
 ```json
 {
