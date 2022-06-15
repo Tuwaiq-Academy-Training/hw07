@@ -22,7 +22,7 @@ you need to implement the following schema in a backend project:
       "created_at":"Date"
     },
 ```
-
+the name of the collection should be courses
 
 with the following packages only:
 
