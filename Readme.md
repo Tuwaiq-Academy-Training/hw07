@@ -26,9 +26,9 @@ you need to implement the following schema in a backend project:
 
 with the following packages only:
 
-1- express
-2- mongoose
-3- nodemon 
+1- express    
+2- mongoose   
+3- nodemon    
 
 you are required to add a crud operation to that structure an example values for you to test is this:
 
