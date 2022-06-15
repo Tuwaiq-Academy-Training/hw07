@@ -37,14 +37,14 @@ an example value for you to test is this:
 ```json
 {
       "courses_count": 4,
-      "path_status": "OPEN",
+      "path_status": True,
       "learning_goals": [
         "استخدام لغة Dart",
         "بناء واجهات التطبيقات باستخدام Flutter",
         "إنشاء قواعد البيانات وربطها بالتطبيقات"
       ],
       "path_hours": 13,
-      "publishing_status": "PUBLISHED",
+      "publishing_status": True,
       "id": "6cdcce31-988d-4018-978a-181d2c4c782b",
       "color_hex": "#1aa4db",
       "level": "JUNIOR",
